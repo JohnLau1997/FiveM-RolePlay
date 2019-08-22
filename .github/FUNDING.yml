@@ -21,3 +21,4 @@ Otechie	otechie: USERNAME
 Patreon	patreon: USERNAME
 Tidelift	tidelift: PLATFORM-NAME/PACKAGE-NAME
 Custom URL	custom: LINK1 or custom: [LINK1, LINK2, LINK3, LINK4]
+true
